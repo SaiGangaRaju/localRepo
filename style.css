@@ -1,3 +1,7 @@
 p{
-    color:green;
+    color:red;
+    background-color:black;
+    image-resolution: inherit;
+    scrollbar-width: auto;
+    background:scroll;
 }
